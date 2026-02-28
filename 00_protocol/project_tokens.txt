@@ -1,0 +1,2 @@
+baseline_case01 = sqp_abe34c1c9c4f35611a78d44affe8613cb51a2f8e
+global_scanner = squ_eda33f184c1f9c577a095d3d49d9a0ff78cdf889
